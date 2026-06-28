@@ -33,7 +33,7 @@ export default function DemoLayout() {
           </div>
           <div>
             <Typography.Text className="brand-title">{PROJECT_NAME}</Typography.Text>
-            <Typography.Text className="brand-subtitle">真实企业 Demo 前端</Typography.Text>
+            <Typography.Text className="brand-subtitle">Demo 前端</Typography.Text>
           </div>
         </Space>
         <Space size={16} className="header-meta">
